@@ -5,127 +5,127 @@
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="c" value="КЛАССИФИКАЦИЯ&lt;br&gt;РИСКОВ ПРОЕКТА&lt;br&gt;&lt;font style='font-size: 11px' color='#CBD5E0'&gt;Идентификация и группировка&lt;br&gt;неопределённостей ИТ-проекта&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1B365D;strokeColor=#0F2744;fontColor=#FFFFFF;fontStyle=1;fontSize=16;arcSize=12;shadow=1;align=center;" vertex="1" parent="1">
+        <mxCell id="c" value="КЛАССИФИКАЦИЯ&lt;br&gt;РИСКОВ ПРОЕКТА&lt;br&gt;&lt;font style='font-size: 11px' color='#D1D5DB'&gt;Идентификация и группировка&lt;br&gt;неопределённостей ИТ-проекта&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1F2937;strokeColor=#111827;fontColor=#FFFFFF;fontStyle=1;fontSize=16;arcSize=12;shadow=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="390" width="300" height="118" as="geometry"/>
         </mxCell>
-        <mxCell id="tech" value="ТЕХНИЧЕСКИЙ РИСК" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B6CB0;strokeColor=#2C5282;fontColor=#FFFFFF;fontStyle=1;fontSize=12;arcSize=20;shadow=1;" vertex="1" parent="1">
+        <mxCell id="tech" value="ТЕХНИЧЕСКИЙ РИСК" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0F766E;strokeColor=#115E59;fontColor=#FFFFFF;fontStyle=1;fontSize=12;arcSize=20;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="188" width="210" height="44" as="geometry"/>
         </mxCell>
-        <mxCell id="mgmt" value="УПРАВЛЕНЧЕСКИЙ РИСК" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#38A169;strokeColor=#2F855A;fontColor=#FFFFFF;fontStyle=1;fontSize=12;arcSize=20;shadow=1;" vertex="1" parent="1">
+        <mxCell id="mgmt" value="УПРАВЛЕНЧЕСКИЙ РИСК" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9D174D;strokeColor=#831843;fontColor=#FFFFFF;fontStyle=1;fontSize=12;arcSize=20;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="188" width="230" height="44" as="geometry"/>
         </mxCell>
-        <mxCell id="comm" value="КОММЕРЧЕСКИЙ РИСК" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD6B20;strokeColor=#C05621;fontColor=#FFFFFF;fontStyle=1;fontSize=12;arcSize=20;shadow=1;" vertex="1" parent="1">
+        <mxCell id="comm" value="КОММЕРЧЕСКИЙ РИСК" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3730A3;strokeColor=#312E81;fontColor=#FFFFFF;fontStyle=1;fontSize=12;arcSize=20;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="640" width="210" height="44" as="geometry"/>
         </mxCell>
-        <mxCell id="ext" value="ВНЕШНИЙ РИСК" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6B46C1;strokeColor=#553C9A;fontColor=#FFFFFF;fontStyle=1;fontSize=12;arcSize=20;shadow=1;" vertex="1" parent="1">
+        <mxCell id="ext" value="ВНЕШНИЙ РИСК" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B45309;strokeColor=#92400E;fontColor=#FFFFFF;fontStyle=1;fontSize=12;arcSize=20;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="640" width="200" height="44" as="geometry"/>
         </mxCell>
-        <mxCell id="t1" value="&lt;b&gt;Содержание&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Внутренняя CRM: в оценке был только текущий контур, а заказчик позже потребовал перенос восьми лет истории сделок&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#EBF8FF;strokeColor=#63B3ED;fontColor=#1A365D;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="t1" value="&lt;b&gt;Содержание&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Внутренняя CRM: в оценке был только текущий контур, а заказчик позже потребовал перенос восьми лет истории сделок&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#CCFBF1;strokeColor=#14B8A6;fontColor=#134E4A;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="24" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="t2" value="&lt;b&gt;Требования&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Биллинг SaaS: после демо в ТЗ внезапно появились промокоды, мультивалютность и закрывающие документы&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#EBF8FF;strokeColor=#63B3ED;fontColor=#1A365D;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="t2" value="&lt;b&gt;Требования&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Биллинг SaaS: после демо в ТЗ внезапно появились промокоды, мультивалютность и закрывающие документы&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#CCFBF1;strokeColor=#14B8A6;fontColor=#134E4A;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="104" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="t3" value="&lt;b&gt;Технология&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Чат-бот на внешней LLM: провайдер урезал квоту, слой инференса пришлось собирать заново на другой модели&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#EBF8FF;strokeColor=#63B3ED;fontColor=#1A365D;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="t3" value="&lt;b&gt;Технология&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Чат-бот на внешней LLM: провайдер урезал квоту, слой инференса пришлось собирать заново на другой модели&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#CCFBF1;strokeColor=#14B8A6;fontColor=#134E4A;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="184" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="t4" value="&lt;b&gt;Технические процессы&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Платёжный модуль выкатили сразу в прод без канарейки — ошибка в расчёте комиссии остановила оплату на час&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#EBF8FF;strokeColor=#63B3ED;fontColor=#1A365D;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="t4" value="&lt;b&gt;Технические процессы&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Платёжный модуль выкатили сразу в прод без канарейки — ошибка в расчёте комиссии остановила оплату на час&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#CCFBF1;strokeColor=#14B8A6;fontColor=#134E4A;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="264" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="t5" value="&lt;b&gt;Интеграция&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Обмен с 1С: партнёр сменил формат справочника номенклатуры, и ночные загрузки заказов начали падать&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#EBF8FF;strokeColor=#63B3ED;fontColor=#1A365D;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="t5" value="&lt;b&gt;Интеграция&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Обмен с 1С: партнёр сменил формат справочника номенклатуры, и ночные загрузки заказов начали падать&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#CCFBF1;strokeColor=#14B8A6;fontColor=#134E4A;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="344" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="m1" value="&lt;b&gt;Управление проектом&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Четыре разработчика вели два релиза сразу, критический путь тестирования не выделили — сдача уехала на три недели&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#F0FFF4;strokeColor=#68D391;fontColor=#22543D;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="m1" value="&lt;b&gt;Управление проектом&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Четыре разработчика вели два релиза сразу, критический путь тестирования не выделили — сдача уехала на три недели&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FCE7F3;strokeColor=#F472B6;fontColor=#831843;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1310" y="24" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="m2" value="&lt;b&gt;Управление программой и портфелем&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Редизайн витрины и замена CMS шли параллельно, одни и те же фронтендеры стояли в двух планах&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#F0FFF4;strokeColor=#68D391;fontColor=#22543D;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="m2" value="&lt;b&gt;Управление программой и портфелем&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Редизайн витрины и замена CMS шли параллельно, одни и те же фронтендеры стояли в двух планах&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FCE7F3;strokeColor=#F472B6;fontColor=#831843;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1310" y="104" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="m3" value="&lt;b&gt;Обеспечение ресурсами&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Единственный DBA ушёл в отпуск в неделю миграции, простой кластера растянулся до утра&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#F0FFF4;strokeColor=#68D391;fontColor=#22543D;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="m3" value="&lt;b&gt;Обеспечение ресурсами&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Единственный DBA ушёл в отпуск в неделю миграции, простой кластера растянулся до утра&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FCE7F3;strokeColor=#F472B6;fontColor=#831843;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1310" y="184" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="m4" value="&lt;b&gt;Коммуникации&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Продукт считал «готово» на стейдже, разработка — только в проде с мониторингом, из-за этого сорвали демо&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#F0FFF4;strokeColor=#68D391;fontColor=#22543D;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="m4" value="&lt;b&gt;Коммуникации&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Продукт считал «готово» на стейдже, разработка — только в проде с мониторингом, из-за этого сорвали демо&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FCE7F3;strokeColor=#F472B6;fontColor=#831843;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1310" y="264" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="k1" value="&lt;b&gt;Договорные условия&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Фикс-прайс на интеграцию API: в договоре не описали объём работ при смене версии со стороны партнёра&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FFFAF0;strokeColor=#ED8936;fontColor=#7B341E;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="k1" value="&lt;b&gt;Договорные условия&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Фикс-прайс на интеграцию API: в договоре не описали объём работ при смене версии со стороны партнёра&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#E0E7FF;strokeColor=#6366F1;fontColor=#312E81;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="k2" value="&lt;b&gt;Поставщики, подрядчики, субподрядчики&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Хостинг перенёс окно работ без согласования, витрина была недоступна в час пик пятницы&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FFFAF0;strokeColor=#ED8936;fontColor=#7B341E;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="k2" value="&lt;b&gt;Поставщики, подрядчики, субподрядчики&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Хостинг перенёс окно работ без согласования, витрина была недоступна в час пик пятницы&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#E0E7FF;strokeColor=#6366F1;fontColor=#312E81;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="k3" value="&lt;b&gt;Материально-техническое снабжение&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Партия SSD для кластера зависла на таможне, стенд нагрузочного теста собрали на две недели позже&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FFFAF0;strokeColor=#ED8936;fontColor=#7B341E;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="k3" value="&lt;b&gt;Материально-техническое снабжение&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Партия SSD для кластера зависла на таможне, стенд нагрузочного теста собрали на две недели позже&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#E0E7FF;strokeColor=#6366F1;fontColor=#312E81;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="680" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="k4" value="&lt;b&gt;Стабильность контрагента&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Сервис рассылок объявил sunset за шесть недель до запуска кампании, пришлось срочно менять провайдера&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FFFAF0;strokeColor=#ED8936;fontColor=#7B341E;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="k4" value="&lt;b&gt;Стабильность контрагента&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Сервис рассылок объявил sunset за шесть недель до запуска кампании, пришлось срочно менять провайдера&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#E0E7FF;strokeColor=#6366F1;fontColor=#312E81;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="760" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="e1" value="&lt;b&gt;Законодательство&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Ужесточение локализации ПДн: персональные данные нельзя оставлять на зарубежном SaaS, перенос не был в плане&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FAF5FF;strokeColor=#B794F4;fontColor=#44337A;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="e1" value="&lt;b&gt;Законодательство&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Ужесточение локализации ПДн: персональные данные нельзя оставлять на зарубежном SaaS, перенос не был в плане&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FEF3C7;strokeColor=#F59E0B;fontColor=#78350F;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1310" y="540" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="e2" value="&lt;b&gt;Курсы валют&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Лицензии Atlassian и облако AWS подорожали после скачка курса, годовой бюджет поддержки не закрыл счета&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FAF5FF;strokeColor=#B794F4;fontColor=#44337A;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="e2" value="&lt;b&gt;Курсы валют&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Лицензии Atlassian и облако AWS подорожали после скачка курса, годовой бюджет поддержки не закрыл счета&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FEF3C7;strokeColor=#F59E0B;fontColor=#78350F;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1310" y="620" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="e3" value="&lt;b&gt;Конкуренция&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Маркетплейс включил бесплатную доставку в том же районе, окно для своего канала заказов сжалось до месяца&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FAF5FF;strokeColor=#B794F4;fontColor=#44337A;fontSize=12;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="e3" value="&lt;b&gt;Конкуренция&lt;/b&gt;&lt;br&gt;&lt;font style='font-size: 11px' color='#4A5568'&gt;Пример: Маркетплейс включил бесплатную доставку в том же районе, окно для своего канала заказов сжалось до месяца&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=8;spacingTop=4;fillColor=#FEF3C7;strokeColor=#F59E0B;fontColor=#78350F;fontSize=12;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1310" y="700" width="430" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#2B6CB0;exitX=0.5;exitY=1;entryX=0.35;entryY=0;" edge="1" parent="1" source="tech" target="c">
+        <mxCell id="edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#0F766E;exitX=0.5;exitY=1;entryX=0.35;entryY=0;" edge="1" parent="1" source="tech" target="c">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#38A169;exitX=0.5;exitY=1;entryX=0.65;entryY=0;" edge="1" parent="1" source="mgmt" target="c">
+        <mxCell id="edge-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#9D174D;exitX=0.5;exitY=1;entryX=0.65;entryY=0;" edge="1" parent="1" source="mgmt" target="c">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#DD6B20;exitX=0.5;exitY=0;entryX=0.35;entryY=1;" edge="1" parent="1" source="comm" target="c">
+        <mxCell id="edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#3730A3;exitX=0.5;exitY=0;entryX=0.35;entryY=1;" edge="1" parent="1" source="comm" target="c">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#6B46C1;exitX=0.5;exitY=0;entryX=0.65;entryY=1;" edge="1" parent="1" source="ext" target="c">
+        <mxCell id="edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#B45309;exitX=0.5;exitY=0;entryX=0.65;entryY=1;" edge="1" parent="1" source="ext" target="c">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#2B6CB0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t1" target="tech">
+        <mxCell id="edge-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#0F766E;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t1" target="tech">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#2B6CB0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t2" target="tech">
+        <mxCell id="edge-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#0F766E;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t2" target="tech">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#2B6CB0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t3" target="tech">
+        <mxCell id="edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#0F766E;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t3" target="tech">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#2B6CB0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t4" target="tech">
+        <mxCell id="edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#0F766E;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t4" target="tech">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#2B6CB0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t5" target="tech">
+        <mxCell id="edge-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#0F766E;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="t5" target="tech">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#38A169;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="m1" target="mgmt">
+        <mxCell id="edge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#9D174D;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="m1" target="mgmt">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#38A169;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="m2" target="mgmt">
+        <mxCell id="edge-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#9D174D;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="m2" target="mgmt">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#38A169;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="m3" target="mgmt">
+        <mxCell id="edge-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#9D174D;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="m3" target="mgmt">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#38A169;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="m4" target="mgmt">
+        <mxCell id="edge-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#9D174D;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="m4" target="mgmt">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#DD6B20;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="k1" target="comm">
+        <mxCell id="edge-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#3730A3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="k1" target="comm">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#DD6B20;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="k2" target="comm">
+        <mxCell id="edge-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#3730A3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="k2" target="comm">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#DD6B20;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="k3" target="comm">
+        <mxCell id="edge-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#3730A3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="k3" target="comm">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#DD6B20;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="k4" target="comm">
+        <mxCell id="edge-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#3730A3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="k4" target="comm">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#6B46C1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="e1" target="ext">
+        <mxCell id="edge-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#B45309;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="e1" target="ext">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#6B46C1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="e2" target="ext">
+        <mxCell id="edge-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#B45309;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="e2" target="ext">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="edge-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#6B46C1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="e3" target="ext">
+        <mxCell id="edge-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;strokeColor=#B45309;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="e3" target="ext">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
